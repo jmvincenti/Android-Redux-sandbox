@@ -1,0 +1,2 @@
+include ':app', ':core', ':state'
+rootProject.name='Redux Sample'
